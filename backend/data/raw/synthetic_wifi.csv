@@ -1,0 +1,501 @@
+ssid,bssid,signal_dbm,encryption,authentication,channel,is_risky,risk_reason
+CyberCafe_Free,74:ff:9c:24:35:87,-85,WPA,PSK,1,0,Safe
+Sai,a4:61:82:9a:83:e9,-74,WPA2,PSK,1,0,Safe
+Airtel_5G,62:58:7c:cb:f3:54,-89,WPA,PSK,10,0,Safe
+JioFiber_Home,5e:03:72:61:72:8a,-42,OPEN,NONE,6,1,Open Network
+TP-Link_5G,74:dd:ba:9d:3e:9f,-37,OPEN,NONE,1,1,Open Network
+Om_Shop,92:7e:a4:38:99:7c,-81,OPEN,NONE,5,1,Open Network
+Sai,3c:7e:8f:af:25:99,-79,WPA2,PSK,5,0,Safe
+TP-Link123,20:8c:ff:a1:3c:6b,-54,WEP,PSK,2,1,Weak Encryption (WEP)
+Shiv_Free,bc:2c:de:21:39:02,-75,WEP,PSK,5,1,Weak Encryption (WEP)
+JioFiber,34:c7:b6:79:bd:8c,-67,OPEN,NONE,1,1,Open Network
+Free_Public_WiFi,84:be:8c:9d:8c:f5,-45,WPA2,PSK,2,0,Safe
+D-Link123,f4:bf:ce:0d:43:aa,-81,WPA,PSK,8,0,Safe
+TP-Link_Guest,fc:0c:23:43:50:67,-30,WEP,PSK,9,1,Weak Encryption (WEP)
+Om123,9a:51:82:f5:70:92,-60,OPEN,NONE,8,1,Open Network
+Om,50:14:71:3e:fe:27,-48,OPEN,NONE,10,1,Open Network
+Ganpati_5G,f8:5f:fa:1f:b3:01,-88,WPA2,PSK,5,0,Safe
+TP-Link,8c:f8:44:b9:8f:22,-76,WPA2,PSK,8,0,Safe
+Free_Public_WiFi,c8:0d:c9:a0:25:2f,-51,OPEN,NONE,5,1,Open Network
+Sai_Home,8c:d6:3a:69:11:14,-86,WEP,PSK,9,1,Weak Encryption (WEP)
+Airtel_Free,d0:6f:93:fb:68:c4,-33,OPEN,NONE,1,1,Open Network
+D-Link_Shop,98:40:28:db:56:00,-40,OPEN,NONE,8,1,Open Network
+CyberCafe,84:e1:15:79:6e:da,-42,OPEN,NONE,4,1,Open Network
+D-Link123,ac:08:9e:fc:9b:90,-64,WPA2,PSK,2,0,Safe
+Om_Home,6e:ac:69:54:40:c6,-79,OPEN,NONE,7,1,Open Network
+Ganpati_Guest,ea:8c:07:c9:92:4f,-37,WPA2,PSK,7,0,Safe
+Ganpati_Guest,b4:da:ce:6f:57:80,-34,OPEN,NONE,10,1,Open Network
+JioFiber_Guest,f8:41:37:f8:81:bf,-88,WPA2,PSK,5,0,Safe
+D-Link,a2:e6:53:62:32:3a,-62,WPA2,PSK,11,0,Safe
+JioFiber_Guest,1e:83:54:d8:fa:76,-30,WPA,PSK,8,0,Safe
+JioFiber_Shop,70:1b:43:9e:9c:5f,-71,WPA,PSK,8,0,Safe
+D-Link_5G,ac:41:1e:cd:69:1b,-57,WPA2,PSK,2,0,Safe
+Free_Public_WiFi,8e:7f:f4:b7:22:5d,-45,WEP,PSK,9,1,Weak Encryption (WEP)
+Free_Public_WiFi,98:0e:a4:a2:e0:00,-42,WEP,PSK,9,1,Weak Encryption (WEP)
+Airtel_Free,60:93:9e:01:03:c4,-67,WEP,PSK,6,1,Weak Encryption (WEP)
+Netpluz_5G,60:8a:07:1f:74:e9,-46,WEP,PSK,2,1,Weak Encryption (WEP)
+Airtel_Home,14:8f:99:99:2b:02,-72,WPA,PSK,11,0,Safe
+Airtel_Shop,5e:8d:74:ee:56:85,-40,WEP,PSK,4,1,Weak Encryption (WEP)
+Sai_5G,bc:c7:75:eb:da:eb,-71,WEP,PSK,4,1,Weak Encryption (WEP)
+JioFiber_Home,20:46:c7:7f:7d:17,-55,OPEN,NONE,1,1,Open Network
+Netpluz_Guest,0e:e9:52:20:a9:50,-64,OPEN,NONE,9,1,Open Network
+CyberCafe,4c:89:1b:c0:b6:5f,-35,OPEN,NONE,10,1,Open Network
+Netpluz_Guest,e8:2a:68:d4:90:cd,-53,WPA,PSK,2,0,Safe
+Airtel_Guest,70:a9:6b:ec:e8:ae,-41,OPEN,NONE,7,1,Open Network
+D-Link_Shop,e0:6b:74:8e:a5:9c,-33,OPEN,NONE,1,1,Open Network
+Ganpati123,84:43:a7:41:93:75,-88,WPA2,PSK,4,0,Safe
+Sai_Guest,9a:8c:a6:eb:0a:47,-32,WPA2,PSK,3,0,Safe
+Netpluz_Guest,fc:3d:26:29:38:e7,-77,WPA,PSK,11,0,Safe
+Om,02:6c:d3:20:26:3c,-59,OPEN,NONE,6,1,Open Network
+Airtel_5G,ce:e1:1c:d6:f1:82,-90,WPA2,PSK,4,0,Safe
+Shiv_Shop,2c:d0:9c:22:b1:37,-42,WEP,PSK,8,1,Weak Encryption (WEP)
+Netpluz_Shop,e0:6b:e9:7c:30:a5,-62,WPA,PSK,10,0,Safe
+D-Link,5e:62:93:01:6f:5d,-49,WPA,PSK,1,0,Safe
+Free_Public_WiFi,34:57:e3:bd:57:c5,-50,OPEN,NONE,6,1,Open Network
+JioFiber_Guest,4e:f0:ca:28:7a:e4,-86,OPEN,NONE,1,1,Open Network
+D-Link,e8:4c:2f:72:ca:51,-48,WPA,PSK,7,0,Safe
+TP-Link123,0c:ed:cd:5c:d2:c1,-77,WPA,PSK,11,0,Safe
+D-Link123,d8:a8:8f:94:32:00,-90,WPA2,PSK,11,0,Safe
+Shiv_Guest,3a:e4:3a:7b:e6:57,-59,OPEN,NONE,5,1,Open Network
+Sai_Home,ea:cf:81:c1:8f:e4,-85,OPEN,NONE,5,1,Open Network
+Ganpati123,bc:94:6f:14:1b:07,-66,WPA,PSK,4,0,Safe
+JioFiber,7a:9e:73:85:6f:a4,-84,OPEN,NONE,1,1,Open Network
+JioFiber_Home,12:38:4a:ad:0c:29,-80,WEP,PSK,3,1,Weak Encryption (WEP)
+Sai_Home,d6:88:73:59:79:95,-87,OPEN,NONE,11,1,Open Network
+Netpluz_5G,28:50:1b:0f:6a:20,-54,WPA2,PSK,11,0,Safe
+Sai_Free,9c:f3:b7:7f:77:f6,-45,OPEN,NONE,2,1,Open Network
+CyberCafe,ae:e9:2a:ba:23:4e,-31,WEP,PSK,1,1,Weak Encryption (WEP)
+JioFiber123,ea:2c:fa:3b:ff:12,-60,WPA2,PSK,3,0,Safe
+Shiv_Home,f4:54:39:97:6c:a7,-40,WEP,PSK,6,1,Weak Encryption (WEP)
+Om_Shop,ce:bd:58:b0:28:4e,-61,WPA,PSK,8,0,Safe
+Airtel123,fa:2f:b0:3e:c3:55,-65,WPA,PSK,3,0,Safe
+Airtel_5G,08:ba:27:ed:43:9f,-83,WEP,PSK,2,1,Weak Encryption (WEP)
+Airtel_Shop,44:23:7e:6f:66:ab,-88,WEP,PSK,11,1,Weak Encryption (WEP)
+TP-Link,18:09:f7:7b:da:cc,-68,WPA,PSK,7,0,Safe
+Sai123,66:47:81:8a:bd:49,-38,WPA,PSK,9,0,Safe
+TP-Link_Free,76:e6:3b:7e:b1:1c,-65,OPEN,NONE,7,1,Open Network
+CyberCafe123,c2:67:36:32:f0:cf,-78,WPA,PSK,1,0,Safe
+D-Link123,ca:fe:74:d0:5b:f6,-46,WPA,PSK,1,0,Safe
+JioFiber_5G,a0:f9:4b:90:36:31,-31,OPEN,NONE,6,1,Open Network
+Netpluz_Home,96:6a:4a:c2:95:53,-61,OPEN,NONE,10,1,Open Network
+Airtel_5G,c8:12:90:ce:94:bd,-57,WPA,PSK,6,0,Safe
+Netpluz_Free,f8:33:71:31:b7:0f,-48,WPA2,PSK,5,0,Safe
+Om_5G,da:8f:28:d1:03:fd,-48,WEP,PSK,4,1,Weak Encryption (WEP)
+Om_5G,88:cf:cb:bc:18:e2,-65,OPEN,NONE,3,1,Open Network
+Ganpati123,66:db:53:60:3c:3d,-80,WEP,PSK,9,1,Weak Encryption (WEP)
+Ganpati_5G,4e:8f:40:74:66:60,-68,WPA,PSK,9,0,Safe
+TP-Link_Guest,18:9f:54:a2:44:4e,-70,WPA,PSK,1,0,Safe
+Shiv_Home,18:29:f8:7b:c8:8f,-59,WEP,PSK,3,1,Weak Encryption (WEP)
+CyberCafe_Home,4e:82:e0:34:7d:90,-88,OPEN,NONE,11,1,Open Network
+Free_Public_WiFi,9e:d1:bc:5f:16:8c,-87,WPA2,PSK,2,0,Safe
+TP-Link_5G,4e:16:c5:5e:70:87,-71,WEP,PSK,11,1,Weak Encryption (WEP)
+Free_Public_WiFi,72:f0:0e:85:38:a7,-57,WPA,PSK,6,0,Safe
+Ganpati123,24:d6:3f:fb:36:3a,-74,WPA2,PSK,1,0,Safe
+TP-Link_Home,5c:d6:6a:7d:ee:7e,-47,OPEN,NONE,2,1,Open Network
+Om,da:9a:79:ca:3e:5c,-55,WPA,PSK,4,0,Safe
+Free_Public_WiFi,a0:79:c8:28:d0:a1,-68,WPA2,PSK,8,0,Safe
+Free_Public_WiFi,1c:4a:47:6b:da:ca,-72,OPEN,NONE,7,1,Open Network
+Ganpati123,18:b9:fd:f8:b2:7d,-77,WPA2,PSK,11,0,Safe
+JioFiber123,04:4b:29:0b:a6:ed,-47,WPA2,PSK,7,0,Safe
+Airtel_Free,b6:92:7b:9d:3a:7d,-58,OPEN,NONE,8,1,Open Network
+CyberCafe_Guest,de:a9:59:4c:d5:09,-70,WEP,PSK,1,1,Weak Encryption (WEP)
+Airtel_Home,f6:1f:26:19:32:38,-72,WPA2,PSK,11,0,Safe
+Ganpati_Guest,08:29:da:83:13:fa,-68,OPEN,NONE,10,1,Open Network
+CyberCafe_Home,da:5d:90:8d:77:21,-43,WPA2,PSK,8,0,Safe
+JioFiber_Home,78:f7:da:d8:6f:9c,-49,WEP,PSK,9,1,Weak Encryption (WEP)
+Sai_Shop,7c:75:72:53:9a:88,-90,OPEN,NONE,5,1,Open Network
+TP-Link123,c8:ba:ce:65:a8:f7,-60,OPEN,NONE,2,1,Open Network
+JioFiber123,9a:7a:13:19:ef:b6,-64,OPEN,NONE,11,1,Open Network
+CyberCafe_5G,26:ba:30:f2:95:8c,-32,OPEN,NONE,4,1,Open Network
+Airtel_Guest,30:bc:71:b7:e7:1e,-53,WEP,PSK,8,1,Weak Encryption (WEP)
+D-Link123,a4:d1:dd:29:74:8b,-32,OPEN,NONE,7,1,Open Network
+Netpluz_Guest,ca:47:e0:b3:e8:35,-32,OPEN,NONE,1,1,Open Network
+JioFiber_Home,0a:cb:09:bd:c3:47,-30,WEP,PSK,2,1,Weak Encryption (WEP)
+Sai_Free,7a:24:8a:de:43:f2,-68,WPA,PSK,2,0,Safe
+Om_Home,18:95:fd:9d:c4:3b,-82,WEP,PSK,2,1,Weak Encryption (WEP)
+Airtel,da:60:bf:13:29:19,-39,WEP,PSK,1,1,Weak Encryption (WEP)
+Airtel_Guest,fc:7a:32:1e:e6:23,-74,WPA2,PSK,11,0,Safe
+Free_Public_WiFi,8a:e6:be:e3:bf:52,-36,WEP,PSK,5,1,Weak Encryption (WEP)
+Ganpati_Guest,d4:c5:27:e7:5d:90,-86,WPA,PSK,8,0,Safe
+Ganpati_5G,42:e6:00:c3:c9:52,-41,WPA2,PSK,6,0,Safe
+Ganpati,2a:a4:6a:8f:dd:f5,-86,OPEN,NONE,3,1,Open Network
+Ganpati_Guest,06:51:3e:ce:dd:e2,-73,WPA,PSK,2,0,Safe
+Shiv123,14:25:6c:d1:38:f2,-47,WPA2,PSK,5,0,Safe
+CyberCafe_5G,80:49:3b:68:90:25,-37,WEP,PSK,10,1,Weak Encryption (WEP)
+Netpluz,72:7c:57:0f:3a:f6,-64,WEP,PSK,8,1,Weak Encryption (WEP)
+Free_Public_WiFi,ae:a6:7b:0b:c7:20,-81,OPEN,NONE,7,1,Open Network
+Om123,7c:6a:f6:6d:fe:8c,-79,OPEN,NONE,8,1,Open Network
+JioFiber123,a0:5f:3b:e7:6e:2b,-38,WPA2,PSK,5,0,Safe
+JioFiber123,e0:86:0c:3e:89:90,-37,WPA2,PSK,11,0,Safe
+Airtel_5G,6c:eb:1f:ae:12:af,-39,WPA,PSK,2,0,Safe
+Om_Shop,98:2f:b4:21:74:a1,-41,WPA,PSK,5,0,Safe
+Free_Public_WiFi,c0:ba:f9:d8:58:ef,-46,WPA,PSK,10,0,Safe
+Free_Public_WiFi,76:c0:bc:ae:ee:06,-56,WPA2,PSK,2,0,Safe
+Sai123,60:d9:3b:e6:42:7e,-39,WPA2,PSK,2,0,Safe
+Ganpati_Home,9e:cd:f5:93:75:2b,-67,WPA,PSK,11,0,Safe
+JioFiber_Free,68:05:b0:d2:f5:19,-40,WEP,PSK,11,1,Weak Encryption (WEP)
+Sai_Free,aa:ac:cd:ef:a5:1e,-33,WPA2,PSK,8,0,Safe
+Free_Public_WiFi,e2:88:60:22:ae:df,-59,WPA,PSK,6,0,Safe
+CyberCafe_Shop,ee:9b:a6:b7:f3:e0,-34,OPEN,NONE,2,1,Open Network
+Ganpati_Guest,aa:13:67:39:13:d2,-67,OPEN,NONE,5,1,Open Network
+Ganpati_Home,58:52:d0:ca:55:07,-78,WEP,PSK,7,1,Weak Encryption (WEP)
+CyberCafe_Guest,82:16:bd:c8:28:dc,-64,WEP,PSK,10,1,Weak Encryption (WEP)
+Ganpati_Guest,ae:a8:3b:11:68:95,-52,OPEN,NONE,1,1,Open Network
+Free_Public_WiFi,78:89:e8:2b:a8:d8,-90,WPA2,PSK,6,0,Safe
+Ganpati_Free,b6:a4:44:65:9d:96,-33,WPA,PSK,10,0,Safe
+Airtel_Home,b0:e5:bd:f9:6b:cb,-65,WPA2,PSK,9,0,Safe
+TP-Link_5G,20:5f:7f:5c:a3:f8,-83,WEP,PSK,5,1,Weak Encryption (WEP)
+Om_5G,96:cf:09:73:dd:89,-73,WPA2,PSK,10,0,Safe
+Shiv_Guest,62:3a:20:39:4b:9d,-81,OPEN,NONE,8,1,Open Network
+Om,96:a1:fd:8d:21:c4,-34,WEP,PSK,5,1,Weak Encryption (WEP)
+Airtel_Home,b2:c0:59:dd:3f:f8,-52,OPEN,NONE,5,1,Open Network
+Ganpati_5G,30:5a:92:a7:91:02,-31,WEP,PSK,7,1,Weak Encryption (WEP)
+JioFiber_5G,aa:18:5d:fe:fa:25,-83,OPEN,NONE,10,1,Open Network
+JioFiber_5G,e8:b0:95:d2:20:2f,-47,OPEN,NONE,3,1,Open Network
+JioFiber_Guest,86:bf:c2:d0:ff:fa,-40,OPEN,NONE,8,1,Open Network
+Sai_Shop,aa:e3:a8:aa:81:e5,-42,WEP,PSK,11,1,Weak Encryption (WEP)
+Om_Shop,ea:2b:78:19:9b:34,-64,WPA2,PSK,4,0,Safe
+Free_Public_WiFi,ec:dd:ee:53:2f:c1,-38,WPA,PSK,4,0,Safe
+D-Link_Guest,5e:ff:3b:4d:6e:c8,-77,WPA,PSK,1,0,Safe
+TP-Link_Shop,d0:2d:f9:e4:66:99,-31,OPEN,NONE,1,1,Open Network
+Sai_Shop,a8:ea:75:76:d4:3a,-52,WEP,PSK,7,1,Weak Encryption (WEP)
+Free_Public_WiFi,3a:f3:b5:e6:4f:17,-41,WEP,PSK,10,1,Weak Encryption (WEP)
+TP-Link_Free,96:8d:86:57:0a:60,-62,OPEN,NONE,10,1,Open Network
+Airtel_Shop,9e:60:68:4b:04:0c,-73,OPEN,NONE,5,1,Open Network
+Sai,2e:eb:b4:af:86:45,-63,OPEN,NONE,9,1,Open Network
+TP-Link_Free,d4:6c:9d:59:71:dc,-81,WEP,PSK,6,1,Weak Encryption (WEP)
+Netpluz123,b8:8c:41:db:11:17,-70,WPA2,PSK,6,0,Safe
+Ganpati123,7c:2f:31:de:4a:78,-61,WPA2,PSK,11,0,Safe
+D-Link_Free,1e:7c:1d:44:01:e3,-54,WPA,PSK,1,0,Safe
+JioFiber_Shop,58:b9:00:46:63:f6,-89,OPEN,NONE,9,1,Open Network
+Ganpati123,7c:fc:d1:c5:37:25,-57,WPA2,PSK,3,0,Safe
+Netpluz_Free,b6:79:7d:77:5f:89,-50,OPEN,NONE,8,1,Open Network
+Ganpati123,66:e5:7a:3f:7d:b5,-50,WPA2,PSK,7,0,Safe
+CyberCafe,f0:3a:fc:04:c2:35,-76,OPEN,NONE,10,1,Open Network
+Netpluz123,2a:b9:75:d1:d5:13,-63,WPA,PSK,10,0,Safe
+Netpluz_Home,e0:7f:55:90:e1:55,-39,OPEN,NONE,1,1,Open Network
+CyberCafe_Free,fa:a7:69:14:29:cb,-73,WEP,PSK,1,1,Weak Encryption (WEP)
+Shiv123,ba:b1:1a:0c:67:f7,-47,WEP,PSK,2,1,Weak Encryption (WEP)
+Free_Public_WiFi,8a:e8:25:9b:68:9b,-30,OPEN,NONE,2,1,Open Network
+JioFiber_Guest,60:8c:0e:5f:01:16,-83,WPA,PSK,10,0,Safe
+CyberCafe123,c0:cf:cd:04:9f:82,-46,OPEN,NONE,1,1,Open Network
+Airtel_Shop,86:69:16:81:4d:02,-33,WPA2,PSK,5,0,Safe
+CyberCafe_Shop,be:46:55:14:51:aa,-63,OPEN,NONE,5,1,Open Network
+CyberCafe123,ec:de:7a:0a:e3:ac,-40,WEP,PSK,2,1,Weak Encryption (WEP)
+JioFiber_Free,9c:db:a3:cd:a3:37,-47,WPA,PSK,2,0,Safe
+D-Link_5G,4c:e7:d7:d9:cc:66,-81,WPA,PSK,2,0,Safe
+Sai,76:9e:73:b0:41:cf,-68,OPEN,NONE,5,1,Open Network
+D-Link_Guest,aa:ee:9f:c5:97:2f,-79,WPA2,PSK,11,0,Safe
+Airtel_Guest,7a:c6:e3:3d:11:42,-56,OPEN,NONE,3,1,Open Network
+CyberCafe,12:b5:f8:a6:eb:0f,-40,WEP,PSK,4,1,Weak Encryption (WEP)
+Ganpati_5G,34:4d:49:a5:71:ff,-40,WEP,PSK,5,1,Weak Encryption (WEP)
+TP-Link_Guest,d6:b7:bc:a4:5d:34,-41,OPEN,NONE,3,1,Open Network
+Ganpati_Home,3a:20:c9:0a:b4:76,-81,WPA2,PSK,7,0,Safe
+Airtel,b0:c5:03:75:cb:33,-89,WPA2,PSK,10,0,Safe
+Ganpati_Home,3e:c0:4c:5c:48:c0,-65,WEP,PSK,9,1,Weak Encryption (WEP)
+JioFiber_5G,7e:43:de:d8:e2:04,-73,OPEN,NONE,4,1,Open Network
+Netpluz_Home,74:95:18:01:3a:a4,-47,OPEN,NONE,1,1,Open Network
+Shiv_Shop,9c:9f:5d:b4:1f:3c,-59,WPA2,PSK,8,0,Safe
+D-Link123,d8:57:9f:ca:9b:69,-33,OPEN,NONE,8,1,Open Network
+D-Link123,02:ef:0a:a5:cb:f5,-58,WEP,PSK,5,1,Weak Encryption (WEP)
+TP-Link123,a6:eb:54:1d:a1:fb,-75,WPA2,PSK,5,0,Safe
+TP-Link_Guest,54:4d:fe:d1:78:4b,-63,WEP,PSK,7,1,Weak Encryption (WEP)
+TP-Link_Guest,b0:65:22:56:15:69,-75,WPA,PSK,1,0,Safe
+Ganpati_Shop,8c:6b:a6:6c:47:1b,-48,WPA,PSK,10,0,Safe
+JioFiber_5G,34:44:37:84:0f:92,-32,OPEN,NONE,2,1,Open Network
+CyberCafe_Home,0a:89:7d:0c:a1:36,-33,WPA,PSK,11,0,Safe
+Airtel,6c:1c:4f:dc:c3:03,-72,WPA2,PSK,7,0,Safe
+Airtel_Free,96:6f:79:7e:68:e4,-50,WPA,PSK,10,0,Safe
+JioFiber_Shop,6a:9a:69:f2:e9:40,-57,WPA2,PSK,10,0,Safe
+Airtel123,f2:a7:04:f6:b3:89,-62,WEP,PSK,6,1,Weak Encryption (WEP)
+CyberCafe_Home,14:83:f5:e6:d0:46,-69,WPA,PSK,6,0,Safe
+Ganpati,06:d3:3a:5c:e9:81,-41,OPEN,NONE,4,1,Open Network
+CyberCafe,54:e7:b7:62:15:20,-65,OPEN,NONE,3,1,Open Network
+JioFiber,50:db:22:f3:75:7a,-34,OPEN,NONE,7,1,Open Network
+TP-Link_5G,b2:8a:d0:f5:9c:81,-37,WPA2,PSK,5,0,Safe
+Free_Public_WiFi,f0:13:5d:15:1d:89,-71,WEP,PSK,10,1,Weak Encryption (WEP)
+Free_Public_WiFi,48:00:72:be:a7:cc,-35,OPEN,NONE,1,1,Open Network
+Free_Public_WiFi,94:00:af:e3:09:e9,-84,WEP,PSK,5,1,Weak Encryption (WEP)
+Sai,90:19:2c:56:0b:fc,-77,WEP,PSK,6,1,Weak Encryption (WEP)
+Airtel123,2a:95:20:af:92:f3,-69,WEP,PSK,7,1,Weak Encryption (WEP)
+Ganpati,d4:e7:be:00:85:7a,-71,WEP,PSK,11,1,Weak Encryption (WEP)
+Netpluz_Guest,b6:97:7d:b5:64:9f,-71,WPA2,PSK,3,0,Safe
+Om_Home,92:f8:6d:1e:fb:fb,-66,WEP,PSK,1,1,Weak Encryption (WEP)
+D-Link_Guest,90:e3:94:fc:e8:60,-63,OPEN,NONE,2,1,Open Network
+TP-Link_5G,8e:58:e3:1e:1f:67,-65,WPA,PSK,4,0,Safe
+Sai_Home,62:66:33:bd:9c:dd,-62,WPA,PSK,8,0,Safe
+JioFiber123,00:a2:6f:39:2c:ad,-54,WPA2,PSK,10,0,Safe
+Netpluz_Guest,66:5b:8d:d9:d9:b2,-67,OPEN,NONE,10,1,Open Network
+CyberCafe_Free,ec:84:ba:8f:f8:93,-49,WPA2,PSK,5,0,Safe
+Free_Public_WiFi,f2:1f:d5:29:44:24,-77,WEP,PSK,6,1,Weak Encryption (WEP)
+Shiv_Guest,f8:49:46:71:50:5a,-53,WPA2,PSK,2,0,Safe
+CyberCafe123,3c:95:55:4b:2c:bb,-88,WEP,PSK,1,1,Weak Encryption (WEP)
+Free_Public_WiFi,86:34:3a:9b:da:e7,-74,WPA2,PSK,6,0,Safe
+Free_Public_WiFi,9c:73:b6:9d:9b:c9,-78,OPEN,NONE,4,1,Open Network
+Netpluz_Guest,32:82:18:67:95:58,-58,WEP,PSK,7,1,Weak Encryption (WEP)
+Om_Guest,c8:5e:92:6d:cf:d1,-73,WPA,PSK,7,0,Safe
+D-Link,ce:95:c6:48:0b:cc,-87,WEP,PSK,11,1,Weak Encryption (WEP)
+JioFiber_Guest,ba:4b:1e:d5:b2:d0,-89,OPEN,NONE,4,1,Open Network
+Free_Public_WiFi,e6:57:89:b7:3c:57,-40,OPEN,NONE,5,1,Open Network
+Netpluz,ce:0a:6d:7a:5a:e4,-57,OPEN,NONE,6,1,Open Network
+Airtel_Guest,22:30:38:3d:cc:cd,-45,WPA2,PSK,8,0,Safe
+Free_Public_WiFi,2a:4e:c4:a5:38:61,-42,WPA,PSK,10,0,Safe
+Airtel_Shop,82:d4:df:69:e9:48,-47,WPA2,PSK,8,0,Safe
+Netpluz_Guest,b2:08:a6:52:6f:49,-33,OPEN,NONE,10,1,Open Network
+Airtel_Guest,c8:09:7b:09:b2:b3,-48,WPA,PSK,7,0,Safe
+JioFiber_Home,fc:13:c1:4c:9f:e8,-46,WPA2,PSK,2,0,Safe
+D-Link_Guest,e6:1f:50:c0:52:36,-64,WEP,PSK,8,1,Weak Encryption (WEP)
+JioFiber_Guest,70:1c:cc:a9:82:40,-82,WEP,PSK,11,1,Weak Encryption (WEP)
+D-Link,d4:19:51:53:09:8d,-85,WPA,PSK,11,0,Safe
+Free_Public_WiFi,c8:75:c6:1c:5c:3e,-57,WPA2,PSK,6,0,Safe
+JioFiber_5G,aa:c8:3e:37:09:d2,-75,WEP,PSK,8,1,Weak Encryption (WEP)
+Netpluz_5G,0a:ce:0a:d6:1d:84,-48,WPA,PSK,9,0,Safe
+CyberCafe_5G,64:ed:ac:e8:7e:bd,-79,WEP,PSK,10,1,Weak Encryption (WEP)
+Airtel_Free,aa:c5:f3:5e:cb:2e,-87,WPA2,PSK,7,0,Safe
+Ganpati_5G,a8:09:b4:ea:8c:9b,-79,WEP,PSK,8,1,Weak Encryption (WEP)
+Ganpati_Shop,e6:06:d7:69:d7:d1,-31,WPA,PSK,1,0,Safe
+Free_Public_WiFi,9a:fd:c2:c5:4e:51,-81,WEP,PSK,8,1,Weak Encryption (WEP)
+Sai,52:1a:20:15:37:59,-90,WEP,PSK,11,1,Weak Encryption (WEP)
+Netpluz_Free,98:eb:ed:2d:8c:59,-54,WEP,PSK,5,1,Weak Encryption (WEP)
+Airtel_5G,bc:41:79:a6:bb:b0,-68,OPEN,NONE,3,1,Open Network
+Sai_Guest,26:93:88:73:cf:09,-38,OPEN,NONE,11,1,Open Network
+Ganpati_5G,94:1f:24:77:9e:77,-67,WPA2,PSK,9,0,Safe
+D-Link123,f4:d2:2e:c2:06:55,-30,OPEN,NONE,9,1,Open Network
+TP-Link123,34:f3:52:f2:a2:f7,-73,WPA2,PSK,11,0,Safe
+Free_Public_WiFi,92:90:1f:d1:d4:37,-78,WPA2,PSK,5,0,Safe
+JioFiber_Guest,ea:09:10:b7:5c:cb,-36,WPA2,PSK,1,0,Safe
+Ganpati_5G,84:14:fe:a7:8e:fb,-39,WEP,PSK,2,1,Weak Encryption (WEP)
+TP-Link_Free,b6:dd:7a:c9:ce:eb,-63,OPEN,NONE,7,1,Open Network
+Airtel_Guest,82:40:e1:9c:0d:d4,-54,WPA,PSK,1,0,Safe
+Free_Public_WiFi,ce:fc:12:53:9a:8d,-81,WPA2,PSK,8,0,Safe
+Shiv_Shop,ba:b8:38:7a:b0:97,-47,WEP,PSK,8,1,Weak Encryption (WEP)
+Free_Public_WiFi,2c:b6:68:d8:d5:67,-61,WPA2,PSK,10,0,Safe
+Netpluz_Home,42:1c:6f:ff:9f:13,-49,WEP,PSK,10,1,Weak Encryption (WEP)
+TP-Link_Home,18:ad:90:ac:c8:11,-62,WPA2,PSK,6,0,Safe
+Ganpati123,f6:9d:6d:b4:2d:ea,-61,WPA,PSK,9,0,Safe
+Shiv_Shop,b8:d1:f1:db:86:93,-85,OPEN,NONE,9,1,Open Network
+Om_Free,fa:e0:39:62:ab:d9,-77,WPA2,PSK,11,0,Safe
+Sai_Home,5c:39:43:4e:46:e7,-56,WPA,PSK,8,0,Safe
+Airtel_Home,e4:a0:29:1a:d4:d9,-71,OPEN,NONE,3,1,Open Network
+JioFiber_5G,d0:41:ee:5f:68:c9,-81,WPA2,PSK,9,0,Safe
+Sai_5G,86:79:0c:16:7f:a1,-56,WEP,PSK,7,1,Weak Encryption (WEP)
+TP-Link_Guest,44:0e:89:05:4b:6b,-72,OPEN,NONE,8,1,Open Network
+Ganpati_Free,e2:24:4f:28:33:09,-51,WPA,PSK,3,0,Safe
+Airtel_5G,54:fa:1c:95:ae:74,-85,WPA,PSK,1,0,Safe
+Free_Public_WiFi,4e:bb:b7:02:59:3d,-68,WEP,PSK,7,1,Weak Encryption (WEP)
+Om_Shop,8a:d4:82:ea:02:d7,-76,WPA,PSK,5,0,Safe
+JioFiber,7e:27:cf:ef:80:8c,-34,WEP,PSK,11,1,Weak Encryption (WEP)
+Shiv,64:a9:51:92:02:17,-44,WPA2,PSK,8,0,Safe
+TP-Link_Home,4a:a7:69:bc:d0:a8,-61,WPA,PSK,8,0,Safe
+Shiv_5G,d2:ce:cd:f2:57:eb,-59,WPA,PSK,6,0,Safe
+TP-Link_Free,64:87:b0:a6:b1:f0,-35,OPEN,NONE,4,1,Open Network
+Shiv_Home,1c:a9:a7:de:49:d1,-53,OPEN,NONE,3,1,Open Network
+Ganpati,ce:26:ee:d2:f1:fb,-62,WEP,PSK,4,1,Weak Encryption (WEP)
+CyberCafe_5G,02:b3:93:3e:fa:e0,-45,WEP,PSK,4,1,Weak Encryption (WEP)
+CyberCafe123,b0:96:15:59:82:be,-84,WPA,PSK,11,0,Safe
+Airtel_Guest,bc:b5:20:08:17:a4,-87,WEP,PSK,2,1,Weak Encryption (WEP)
+Ganpati,fa:c7:02:2c:07:4e,-48,WEP,PSK,10,1,Weak Encryption (WEP)
+Airtel_5G,9e:ea:fb:09:7d:d1,-88,WEP,PSK,6,1,Weak Encryption (WEP)
+Airtel_Guest,44:5e:2d:86:ff:ba,-77,WPA2,PSK,8,0,Safe
+Ganpati_Home,26:bc:b0:a1:ab:1f,-78,WPA,PSK,4,0,Safe
+JioFiber123,bc:3d:42:a9:1a:30,-87,OPEN,NONE,4,1,Open Network
+Netpluz_Free,f8:19:64:19:b8:90,-66,WPA,PSK,11,0,Safe
+Sai123,84:f6:c6:2c:f9:31,-38,WPA2,PSK,9,0,Safe
+JioFiber_Shop,7c:f7:b9:65:10:3c,-44,WPA2,PSK,5,0,Safe
+D-Link123,10:2e:92:6e:4d:86,-84,WEP,PSK,9,1,Weak Encryption (WEP)
+TP-Link_Home,da:f0:2d:f5:ad:93,-40,WEP,PSK,8,1,Weak Encryption (WEP)
+Free_Public_WiFi,46:23:d2:64:44:8a,-73,WEP,PSK,10,1,Weak Encryption (WEP)
+Ganpati_Shop,96:c7:60:91:69:06,-55,WPA,PSK,10,0,Safe
+Ganpati_Shop,66:06:ee:be:06:2c,-49,WPA,PSK,4,0,Safe
+Ganpati_5G,10:69:de:ba:bd:b8,-50,WPA2,PSK,4,0,Safe
+JioFiber_5G,04:0d:ad:0d:dc:24,-62,WPA2,PSK,3,0,Safe
+Netpluz123,7e:1a:15:40:d1:37,-32,OPEN,NONE,1,1,Open Network
+CyberCafe_Shop,42:69:10:20:e7:a3,-32,WPA2,PSK,4,0,Safe
+Free_Public_WiFi,16:5c:d0:29:de:d2,-87,WPA,PSK,8,0,Safe
+D-Link_Home,e6:89:67:66:bc:46,-53,WEP,PSK,5,1,Weak Encryption (WEP)
+Airtel_Free,1c:4d:77:f1:85:5a,-89,WEP,PSK,10,1,Weak Encryption (WEP)
+JioFiber_Shop,60:1c:c3:04:22:49,-56,WEP,PSK,3,1,Weak Encryption (WEP)
+JioFiber_5G,ba:00:34:cf:fa:d6,-83,OPEN,NONE,9,1,Open Network
+JioFiber_5G,2c:2b:9b:3a:27:d7,-50,WPA2,PSK,2,0,Safe
+Om_Shop,aa:d8:36:0d:57:83,-68,WPA,PSK,6,0,Safe
+CyberCafe_Guest,26:3f:aa:b5:80:1e,-81,OPEN,NONE,9,1,Open Network
+Netpluz,42:f9:69:99:3f:0a,-47,OPEN,NONE,8,1,Open Network
+Shiv_Shop,38:2c:1b:58:c3:c1,-65,WEP,PSK,4,1,Weak Encryption (WEP)
+Ganpati_Free,72:f8:a3:2e:3c:b7,-71,WPA2,PSK,7,0,Safe
+D-Link_5G,ce:ea:b0:a9:6e:a1,-57,WEP,PSK,9,1,Weak Encryption (WEP)
+JioFiber_Shop,0c:0f:b8:07:db:49,-74,OPEN,NONE,6,1,Open Network
+Shiv,34:85:97:a5:69:a9,-89,WEP,PSK,3,1,Weak Encryption (WEP)
+Ganpati_Free,98:82:5e:16:f5:97,-72,WEP,PSK,8,1,Weak Encryption (WEP)
+TP-Link_5G,82:85:37:bd:da:35,-51,WEP,PSK,11,1,Weak Encryption (WEP)
+Netpluz123,d0:c6:07:26:66:5b,-56,WEP,PSK,1,1,Weak Encryption (WEP)
+TP-Link_Home,0c:4f:cf:9e:04:b5,-74,WPA,PSK,10,0,Safe
+D-Link123,ca:fe:2a:a7:33:90,-43,WEP,PSK,7,1,Weak Encryption (WEP)
+CyberCafe123,be:d5:44:e8:88:5b,-79,OPEN,NONE,6,1,Open Network
+Free_Public_WiFi,52:f4:64:e8:0c:f3,-35,WPA,PSK,1,0,Safe
+Ganpati123,5e:8a:03:e7:1e:35,-45,OPEN,NONE,5,1,Open Network
+Ganpati_Shop,28:f4:94:65:bf:1e,-87,WPA,PSK,6,0,Safe
+CyberCafe_Home,2a:0a:64:75:2f:95,-59,WPA,PSK,7,0,Safe
+Sai_Guest,6e:1b:07:37:fa:90,-35,WPA,PSK,10,0,Safe
+Airtel123,10:de:7a:94:1c:15,-32,OPEN,NONE,1,1,Open Network
+D-Link_Shop,b8:3e:52:9b:97:1b,-57,OPEN,NONE,7,1,Open Network
+Airtel123,b8:d7:7d:02:ed:7f,-55,OPEN,NONE,9,1,Open Network
+Airtel_Guest,50:f3:59:68:d2:d3,-50,WPA2,PSK,4,0,Safe
+Free_Public_WiFi,80:15:6d:54:d3:c0,-71,OPEN,NONE,5,1,Open Network
+D-Link_Free,c6:9f:85:f4:b7:41,-38,WPA2,PSK,11,0,Safe
+CyberCafe_Home,5c:18:68:95:d6:b5,-62,WPA,PSK,4,0,Safe
+Om_Home,7e:fe:8d:b9:bb:0c,-53,WEP,PSK,8,1,Weak Encryption (WEP)
+Om123,82:00:7c:56:af:38,-78,WPA,PSK,7,0,Safe
+Ganpati_5G,e2:ac:c0:9b:bf:cf,-54,WPA2,PSK,2,0,Safe
+CyberCafe123,d2:cb:b3:13:ee:bb,-70,WEP,PSK,5,1,Weak Encryption (WEP)
+Airtel_5G,c4:e8:04:90:57:e5,-80,WPA2,PSK,6,0,Safe
+Ganpati123,1a:f9:4a:c5:55:55,-89,OPEN,NONE,11,1,Open Network
+Airtel_Free,c2:3d:3a:b7:fd:57,-30,WPA,PSK,3,0,Safe
+CyberCafe_Guest,46:95:67:45:3e:41,-59,WPA2,PSK,8,0,Safe
+Airtel_Shop,f4:81:ff:f7:f4:4a,-58,WEP,PSK,6,1,Weak Encryption (WEP)
+JioFiber_Guest,00:b9:0a:9f:3b:16,-53,OPEN,NONE,3,1,Open Network
+Ganpati_Home,28:fd:bc:55:5b:72,-90,WEP,PSK,7,1,Weak Encryption (WEP)
+Ganpati_5G,c4:71:5d:c9:5d:a2,-87,WPA2,PSK,8,0,Safe
+Sai_Guest,6e:5f:72:50:20:6a,-65,OPEN,NONE,10,1,Open Network
+Netpluz_Guest,de:b3:22:fa:7b:38,-63,WEP,PSK,8,1,Weak Encryption (WEP)
+TP-Link_Shop,e2:53:b9:a9:8c:19,-81,OPEN,NONE,6,1,Open Network
+Sai_Shop,e0:95:da:a0:61:a7,-42,WEP,PSK,3,1,Weak Encryption (WEP)
+Sai_Home,78:82:27:03:31:f7,-44,OPEN,NONE,2,1,Open Network
+CyberCafe123,20:cf:cd:7f:36:a8,-51,WEP,PSK,11,1,Weak Encryption (WEP)
+JioFiber,9e:c7:58:5f:34:bf,-78,OPEN,NONE,4,1,Open Network
+TP-Link_5G,aa:29:a3:5e:95:0f,-82,OPEN,NONE,4,1,Open Network
+Om_5G,94:22:4a:e1:b9:4f,-62,OPEN,NONE,2,1,Open Network
+Ganpati_Shop,c0:58:02:2b:0e:e2,-34,WPA,PSK,4,0,Safe
+Sai123,8a:a4:09:e4:1f:63,-48,OPEN,NONE,5,1,Open Network
+CyberCafe_Free,6e:f8:0b:70:49:4b,-49,WPA2,PSK,5,0,Safe
+Shiv_5G,f8:24:77:21:c2:75,-63,WPA2,PSK,5,0,Safe
+Netpluz,b0:bd:80:dd:cf:52,-73,WPA2,PSK,10,0,Safe
+Sai,fa:1c:32:ab:21:dc,-30,OPEN,NONE,8,1,Open Network
+Ganpati_Guest,24:d9:ea:4b:1e:2c,-74,OPEN,NONE,4,1,Open Network
+Ganpati_Free,0e:b1:fa:27:70:13,-33,WPA2,PSK,10,0,Safe
+CyberCafe_Guest,8e:6a:3d:e2:d8:96,-66,OPEN,NONE,7,1,Open Network
+CyberCafe_Shop,b0:98:b5:2a:fe:1f,-37,WEP,PSK,8,1,Weak Encryption (WEP)
+Shiv_Guest,50:18:fb:bb:96:f9,-41,WPA2,PSK,10,0,Safe
+D-Link_Guest,bc:51:26:f9:86:21,-90,WPA,PSK,2,0,Safe
+Netpluz,ec:1b:88:08:cc:fd,-75,WPA,PSK,11,0,Safe
+Ganpati_Free,08:c7:da:d8:0d:32,-89,WEP,PSK,10,1,Weak Encryption (WEP)
+Ganpati_Free,4e:e1:94:84:22:0a,-49,WPA,PSK,11,0,Safe
+CyberCafe_Free,56:74:d1:18:c3:48,-69,WPA2,PSK,6,0,Safe
+Ganpati123,4e:49:c0:20:79:ad,-69,WPA2,PSK,11,0,Safe
+Free_Public_WiFi,12:aa:29:20:e4:bf,-46,WPA,PSK,1,0,Safe
+Om_Free,d6:36:ee:6a:c9:66,-76,OPEN,NONE,10,1,Open Network
+Om_Free,1c:43:a8:77:85:10,-58,WPA,PSK,8,0,Safe
+Sai_5G,f6:55:53:80:c3:74,-30,WPA,PSK,9,0,Safe
+Free_Public_WiFi,40:c8:5a:90:3a:29,-89,WPA2,PSK,3,0,Safe
+Shiv,74:a9:85:e3:e1:30,-61,OPEN,NONE,11,1,Open Network
+Ganpati_Free,bc:43:9b:d0:fb:64,-62,WEP,PSK,6,1,Weak Encryption (WEP)
+Shiv_5G,d6:ac:05:13:10:3d,-89,WEP,PSK,8,1,Weak Encryption (WEP)
+Om_Shop,36:74:7c:d9:a4:e6,-51,WPA,PSK,4,0,Safe
+Sai_Home,b2:37:76:a1:d1:cc,-31,WEP,PSK,4,1,Weak Encryption (WEP)
+Netpluz_Guest,ae:e4:88:d3:b6:ac,-53,WPA,PSK,2,0,Safe
+D-Link_Shop,ac:4a:2a:07:a2:e3,-64,WPA2,PSK,1,0,Safe
+Shiv_5G,78:23:66:2c:6a:6f,-39,WPA2,PSK,4,0,Safe
+CyberCafe,66:95:aa:78:63:c9,-78,WPA2,PSK,3,0,Safe
+Netpluz_Free,94:65:a4:b9:a6:39,-38,WPA2,PSK,8,0,Safe
+D-Link_Shop,a4:d5:d9:96:35:52,-68,OPEN,NONE,2,1,Open Network
+JioFiber_5G,50:7c:86:a2:0c:d5,-87,WEP,PSK,11,1,Weak Encryption (WEP)
+CyberCafe,74:01:58:c5:60:87,-83,WPA,PSK,5,0,Safe
+Free_Public_WiFi,48:cb:6c:6d:3b:58,-63,WPA2,PSK,6,0,Safe
+Ganpati_Home,b2:c7:74:99:38:ac,-57,OPEN,NONE,9,1,Open Network
+Airtel,06:f4:db:4a:b8:dc,-34,WPA2,PSK,8,0,Safe
+D-Link_5G,38:cf:04:f0:dd:9f,-46,OPEN,NONE,5,1,Open Network
+Free_Public_WiFi,cc:ec:80:07:7f:b0,-64,WPA2,PSK,4,0,Safe
+Airtel_Free,68:5a:b9:8e:28:51,-35,OPEN,NONE,9,1,Open Network
+D-Link_Guest,a0:56:db:10:19:78,-66,OPEN,NONE,4,1,Open Network
+D-Link,e4:01:39:9f:ec:8f,-53,WPA,PSK,4,0,Safe
+Free_Public_WiFi,f4:c7:35:2a:1c:a3,-42,WPA,PSK,11,0,Safe
+Om_Free,82:ef:51:ad:c6:49,-83,WPA2,PSK,7,0,Safe
+JioFiber_Shop,62:4b:bf:21:be:7d,-31,WPA2,PSK,8,0,Safe
+Free_Public_WiFi,b6:ad:4a:05:be:bc,-67,OPEN,NONE,1,1,Open Network
+D-Link_Free,5a:30:1c:53:cc:b6,-36,OPEN,NONE,10,1,Open Network
+Shiv_Shop,4e:18:f9:7f:01:17,-79,WPA2,PSK,10,0,Safe
+JioFiber_Free,0e:cb:b6:d3:85:1c,-49,WPA,PSK,5,0,Safe
+D-Link_5G,48:ff:87:22:17:89,-82,WPA2,PSK,8,0,Safe
+Netpluz123,9c:9f:4c:ba:6d:24,-82,OPEN,NONE,6,1,Open Network
+Sai123,dc:f5:14:02:92:02,-47,WPA2,PSK,4,0,Safe
+Sai123,c0:3f:c9:0a:11:cb,-73,WPA,PSK,11,0,Safe
+CyberCafe_5G,4a:5f:57:6e:86:9d,-80,WPA,PSK,11,0,Safe
+Free_Public_WiFi,62:d7:30:f2:06:69,-34,WEP,PSK,4,1,Weak Encryption (WEP)
+JioFiber123,d4:35:ac:a8:d7:1a,-63,OPEN,NONE,4,1,Open Network
+JioFiber_Home,7a:49:6d:44:6a:7b,-88,WPA2,PSK,5,0,Safe
+Sai,18:3c:3d:7b:74:bf,-45,WEP,PSK,11,1,Weak Encryption (WEP)
+Sai_5G,e6:54:93:f0:3f:d5,-83,WPA,PSK,8,0,Safe
+CyberCafe_Free,f4:6e:b8:92:79:c4,-68,WEP,PSK,9,1,Weak Encryption (WEP)
+D-Link_Home,e0:2a:81:c4:81:39,-50,WPA2,PSK,3,0,Safe
+Sai_Guest,c2:31:dc:39:8e:5d,-61,WPA,PSK,10,0,Safe
+CyberCafe_Home,3e:24:1b:60:2f:a2,-37,OPEN,NONE,4,1,Open Network
+Shiv123,12:8b:56:17:cc:52,-65,WPA,PSK,6,0,Safe
+CyberCafe_Shop,bc:72:e8:f0:1a:7a,-78,WPA2,PSK,4,0,Safe
+Netpluz_Free,2a:e1:20:24:c4:a9,-81,WPA,PSK,5,0,Safe
+TP-Link_Home,b0:57:92:51:4f:6c,-52,WPA2,PSK,3,0,Safe
+Om_Free,b2:e3:0b:04:f1:04,-48,OPEN,NONE,2,1,Open Network
+Shiv_Guest,ee:88:7b:f9:f1:b0,-45,WPA,PSK,4,0,Safe
+Shiv_Shop,ba:ae:8b:ef:d9:1d,-81,WEP,PSK,6,1,Weak Encryption (WEP)
+TP-Link_Home,76:3d:d6:24:3c:cf,-40,OPEN,NONE,6,1,Open Network
+CyberCafe_Shop,c2:e9:ae:d1:95:6e,-45,WEP,PSK,8,1,Weak Encryption (WEP)
+TP-Link_Guest,c2:54:89:10:e1:dd,-87,WPA,PSK,11,0,Safe
+JioFiber_Home,46:f3:fb:23:87:90,-51,WPA,PSK,9,0,Safe
+Sai_Guest,08:b6:07:7c:22:14,-37,WEP,PSK,3,1,Weak Encryption (WEP)
+JioFiber_Home,86:66:dd:41:68:f1,-69,WEP,PSK,6,1,Weak Encryption (WEP)
+JioFiber_Shop,96:9d:71:b5:72:fb,-51,WPA2,PSK,2,0,Safe
+Airtel123,e0:2c:81:8c:dd:0a,-42,WPA2,PSK,10,0,Safe
+Free_Public_WiFi,88:d7:62:fe:05:82,-33,WPA2,PSK,4,0,Safe
+CyberCafe,7e:99:30:31:62:e9,-69,WEP,PSK,9,1,Weak Encryption (WEP)
+Airtel_Shop,02:c0:4d:40:d8:c3,-76,OPEN,NONE,6,1,Open Network
+Sai123,74:d2:3f:8d:89:84,-52,WPA,PSK,7,0,Safe
+TP-Link_Shop,12:db:5a:e4:a8:d8,-54,WPA2,PSK,2,0,Safe
+TP-Link_Guest,3e:67:56:83:58:dc,-61,WPA2,PSK,8,0,Safe
+Om_Free,12:fc:a2:a8:24:10,-43,OPEN,NONE,7,1,Open Network
+Free_Public_WiFi,70:05:ae:71:5c:89,-31,WPA2,PSK,8,0,Safe
+CyberCafe,8c:f6:82:d5:5d:74,-61,WPA,PSK,3,0,Safe
+Sai123,5a:ec:47:3a:1b:7f,-63,OPEN,NONE,4,1,Open Network
+Ganpati_Home,ae:2b:d1:0f:39:23,-39,WPA2,PSK,10,0,Safe
+Airtel,a0:8b:4f:3d:28:6d,-55,OPEN,NONE,3,1,Open Network
+Om_Shop,32:27:0c:28:af:59,-79,WPA2,PSK,2,0,Safe
+Free_Public_WiFi,a8:8b:23:37:1b:af,-79,OPEN,NONE,8,1,Open Network
+Netpluz,ba:e5:42:0b:c1:5c,-66,WPA,PSK,1,0,Safe
+CyberCafe123,c2:f7:8b:a0:e0:50,-87,OPEN,NONE,2,1,Open Network
+JioFiber,e6:9c:22:61:70:4c,-77,WPA,PSK,5,0,Safe
+Airtel_Home,24:bb:5d:2f:74:03,-40,OPEN,NONE,9,1,Open Network
+Netpluz123,c4:32:d5:81:f8:2c,-58,WPA,PSK,5,0,Safe
+JioFiber_Guest,ee:eb:f2:71:55:7b,-66,WEP,PSK,11,1,Weak Encryption (WEP)
+Netpluz_Free,2a:3b:56:98:8d:a5,-62,WPA2,PSK,8,0,Safe
+Om_Guest,d8:9a:aa:cb:bf:aa,-81,WPA2,PSK,6,0,Safe
+Om_Free,2c:2b:21:a4:aa:cb,-68,WEP,PSK,8,1,Weak Encryption (WEP)
+Sai_Free,76:ac:8e:e6:6c:54,-56,WPA2,PSK,5,0,Safe
+Sai_Free,c2:42:bb:03:bc:37,-86,WPA2,PSK,11,0,Safe
+Airtel_Guest,72:ed:9a:f0:8c:d3,-85,WPA,PSK,6,0,Safe
+TP-Link_Shop,a2:e6:03:17:67:d3,-59,WPA,PSK,7,0,Safe
+D-Link_Shop,80:a5:29:97:2f:60,-60,WPA,PSK,8,0,Safe
+JioFiber_Free,96:a2:22:4d:37:57,-70,WPA,PSK,7,0,Safe
+D-Link,68:9e:13:e8:b5:e1,-79,OPEN,NONE,2,1,Open Network
+Shiv,6a:42:ce:b9:8d:2e,-40,OPEN,NONE,10,1,Open Network
+Ganpati,de:2d:18:b5:f0:e8,-34,WPA2,PSK,9,0,Safe
+Sai_Free,be:08:d8:6c:8e:43,-68,OPEN,NONE,2,1,Open Network
+TP-Link_5G,bc:fe:8a:ac:4a:81,-79,WPA,PSK,7,0,Safe
+Free_Public_WiFi,94:65:62:32:62:e1,-61,WPA2,PSK,5,0,Safe
+Ganpati_Shop,f8:78:b3:d4:d8:30,-34,WEP,PSK,8,1,Weak Encryption (WEP)
+TP-Link,50:c8:1d:ef:5f:f8,-84,OPEN,NONE,3,1,Open Network
+D-Link_Guest,56:06:57:ff:a7:65,-58,WEP,PSK,3,1,Weak Encryption (WEP)
+Shiv_5G,b2:2e:5d:63:40:8a,-60,WEP,PSK,7,1,Weak Encryption (WEP)
+Ganpati_Shop,c4:f4:e0:f2:b7:b4,-66,WPA,PSK,3,0,Safe
+Shiv_Shop,da:90:3a:e8:02:32,-39,WEP,PSK,9,1,Weak Encryption (WEP)
+Ganpati_Home,50:35:b4:3a:e8:90,-54,WEP,PSK,9,1,Weak Encryption (WEP)
+Airtel123,64:14:e8:8f:cc:05,-38,WPA2,PSK,8,0,Safe
+Shiv_Free,a6:9f:05:87:d8:f1,-48,WPA,PSK,9,0,Safe
+TP-Link_Guest,08:35:e4:40:9e:16,-80,OPEN,NONE,8,1,Open Network
+CyberCafe_Home,6e:47:01:c9:98:2d,-85,OPEN,NONE,8,1,Open Network
+Airtel,1e:dc:06:2e:18:3d,-83,OPEN,NONE,9,1,Open Network
+Shiv_Shop,f8:3b:b7:a6:1b:f7,-43,OPEN,NONE,9,1,Open Network
+TP-Link_Home,c2:78:44:f1:73:1d,-68,WPA2,PSK,9,0,Safe
+D-Link123,32:2d:19:95:f2:22,-58,WEP,PSK,2,1,Weak Encryption (WEP)
+Netpluz_Home,6e:66:90:7f:88:94,-57,WPA,PSK,7,0,Safe
+Free_Public_WiFi,94:1f:e2:bd:4f:90,-47,WPA,PSK,8,0,Safe
+Shiv_Shop,8c:5c:49:6d:ea:ad,-65,WPA2,PSK,4,0,Safe
+JioFiber_Guest,1e:19:59:10:3f:37,-38,OPEN,NONE,1,1,Open Network
+JioFiber_Home,62:2a:bc:ae:8d:16,-56,WPA2,PSK,4,0,Safe
+TP-Link_Free,7e:07:a5:cf:94:f0,-69,WPA2,PSK,6,0,Safe

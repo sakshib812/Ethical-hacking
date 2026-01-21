@@ -1,0 +1,20 @@
+
+    =========================================
+    🛡️ ETHICAL HACKING APP - EVALUATION REPORT
+    =========================================
+    Dataset Size: 500 records
+    
+    CONFUSION MATRIX:
+    [ TN (Safe->Safe) : 238 ]  [ FP (Safe->Risky) : 0 ]
+    [ FN (Risky->Safe): 0 ]  [ TP (Risky->Risky): 262 ]
+    
+    METRICS:
+    ✅ Accuracy : 1.0000 (100.00%)
+    🎯 Precision: 1.0000 (Of all flagged risky, how many were actually risky?)
+    🔍 Recall   : 1.0000 (Of all real risks, how many did we catch?)
+    
+    ANALYSIS:
+    - False Positives: 0 (Cases where we scared the user unnecessarily)
+    - False Negatives: 0 (Dangerous cases we missed - critical!)
+    =========================================
+    

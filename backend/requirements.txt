@@ -1,0 +1,9 @@
+pandas
+faker
+numpy
+flask
+sqlalchemy
+xgboost
+shap
+fpdf2
+scipy
