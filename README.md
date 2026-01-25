@@ -95,3 +95,8 @@ Since you might not be at a real Cybercafé, the app uses **Simulated Data** by 
 1.  **Show the Marathi Alerts**: Judges love localization.
 2.  **Explain the "Passive" Scan**: Emphasize you are NOT hacking, just "listening" (Ethical).
 3.  **Show the Safety Score**: Explain how this encourages owners to improve over time.
+
+
+git add .
+git commit -m "ui updated"
+git push -u origin main

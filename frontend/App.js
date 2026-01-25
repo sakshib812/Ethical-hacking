@@ -1,142 +1,79 @@
 import { StatusBar } from 'expo-status-bar';
-import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, TouchableOpacity, ActivityIndicator, Alert } from 'react-native';
-import SurakshaChakra from './components/SurakshaChakra';
-import AlertBox from './components/AlertBox';
-import { analyzeNetwork } from './services/api';
-import { initSarthi, playSecurityAlert } from './services/SarthiHelper';
+import React, { useState, useCallback } from 'react';
+import { StyleSheet, View } from 'react-native';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+import * as SplashScreen from 'expo-splash-screen';
+import {
+    useFonts,
+    Poppins_400Regular,
+    Poppins_500Medium,
+    Poppins_600SemiBold,
+    Poppins_700Bold,
+} from '@expo-google-fonts/poppins';
+
+// Import screens
+import HomeScreen from './src/screens/HomeScreen';
+import AnalysisScreen from './src/screens/AnalysisScreen';
+import DevicesScreen from './src/screens/DevicesScreen';
+import CommunityScreen from './src/screens/CommunityScreen';
+import SettingsScreen from './src/screens/SettingsScreen';
+
+// Import navigation
+import TabNavigator from './src/components/navigation/TabNavigator';
+
+// Keep the splash screen visible while we fetch resources
+SplashScreen.preventAutoHideAsync();
 
 export default function App() {
-    const [scanning, setScanning] = useState(false);
-    const [result, setResult] = useState(null);
+    const [activeTab, setActiveTab] = useState('home');
 
-    useEffect(() => {
-        initSarthi();
-    }, []);
+    const [fontsLoaded] = useFonts({
+        Poppins_400Regular,
+        Poppins_500Medium,
+        Poppins_600SemiBold,
+        Poppins_700Bold,
+    });
 
-    const handleScan = async () => {
-        setScanning(true);
-        setResult(null);
-        try {
-            // Simulate scanning by sending "current WiFi" data to backend
-            // In real app, we would use a WiFi library to get this info.
-            // For Demo: We send the "Test_Open_WiFi" data
-            const mockWifiData = {
-                ssid: "Village_Public_WiFi",
-                bssid: "00:11:22:33:44:55",
-                encryption: "OPEN", // Simulating a risky network
-                signal_dbm: -65
-            };
+    const onLayoutRootView = useCallback(async () => {
+        if (fontsLoaded) {
+            await SplashScreen.hideAsync();
+        }
+    }, [fontsLoaded]);
 
-            const data = await analyzeNetwork(mockWifiData);
-            setResult(data);
+    if (!fontsLoaded) {
+        return null;
+    }
 
-            // Trigger Sarthi Voice Alert
-            if (data.status === 'DANGER' || data.status === 'WARNING') {
-                playSecurityAlert('OPEN'); // Or map data.status
-            } else {
-                playSecurityAlert('SAFE');
-            }
-
-        } catch (error) {
-            Alert.alert("Error", "Could not connect to backend. Make sure Flask is running.");
-            console.log(error);
-        } finally {
-            setScanning(false);
+    const renderScreen = () => {
+        switch (activeTab) {
+            case 'home':
+                return <HomeScreen />;
+            case 'analysis':
+                return <AnalysisScreen />;
+            case 'devices':
+                return <DevicesScreen />;
+            case 'community':
+                return <CommunityScreen />;
+            case 'settings':
+                return <SettingsScreen />;
+            default:
+                return <HomeScreen />;
         }
     };
 
     return (
-        <View style={styles.container}>
-            <Text style={styles.header}>Ethical Hacking Assistant</Text>
-            <Text style={styles.subHeader}>Village Cyber Security</Text>
-
-            <View style={styles.content}>
-                {result ? (
-                    <>
-                        <SurakshaChakra status={result.status} />
-                        <AlertBox alerts={result.alerts} />
-                        <TouchableOpacity style={styles.button} onPress={handleScan}>
-                            <Text style={styles.buttonText}>Scan Again / पुन्हा स्कॅन करा</Text>
-                        </TouchableOpacity>
-                    </>
-                ) : (
-                    <>
-                        <View style={styles.placeholder}>
-                            <Text style={styles.placeholderText}>
-                                Connect to WiFi and press Scan
-                            </Text>
-                        </View>
-                        <TouchableOpacity
-                            style={[styles.button, scanning && styles.buttonDisabled]}
-                            onPress={handleScan}
-                            disabled={scanning}
-                        >
-                            {scanning ? (
-                                <ActivityIndicator color="#fff" />
-                            ) : (
-                                <Text style={styles.buttonText}>SCAN NETWORK / स्कॅन करा</Text>
-                            )}
-                        </TouchableOpacity>
-                    </>
-                )}
+        <SafeAreaProvider>
+            <View style={styles.container} onLayout={onLayoutRootView}>
+                {renderScreen()}
+                <TabNavigator activeTab={activeTab} onTabChange={setActiveTab} />
+                <StatusBar style="dark" />
             </View>
-            <StatusBar style="auto" />
-        </View>
+        </SafeAreaProvider>
     );
 }
 
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#f5f5f5',
-        alignItems: 'center',
-        paddingTop: 80,
-        paddingHorizontal: 20,
     },
-    header: {
-        fontSize: 24,
-        fontWeight: 'bold',
-        color: '#333',
-    },
-    subHeader: {
-        fontSize: 16,
-        color: '#666',
-        marginBottom: 40,
-    },
-    content: {
-        width: '100%',
-        alignItems: 'center',
-    },
-    button: {
-        backgroundColor: '#2196f3',
-        paddingVertical: 15,
-        paddingHorizontal: 30,
-        borderRadius: 30,
-        marginTop: 30,
-        width: '80%',
-        alignItems: 'center',
-        shadowColor: '#000',
-        shadowOffset: { width: 0, height: 2 },
-        shadowOpacity: 0.25,
-        shadowRadius: 3.84,
-        elevation: 5,
-    },
-    buttonDisabled: {
-        backgroundColor: '#b0bec5',
-    },
-    buttonText: {
-        color: '#fff',
-        fontSize: 16,
-        fontWeight: 'bold',
-    },
-    placeholder: {
-        height: 180,
-        justifyContent: 'center',
-        marginBottom: 20,
-    },
-    placeholderText: {
-        fontSize: 16,
-        color: '#aaa',
-    }
 });
