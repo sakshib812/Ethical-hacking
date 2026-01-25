@@ -7,3 +7,7 @@ xgboost
 shap
 fpdf2
 scipy
+flask-jwt-extended
+bcrypt
+python-dotenv
+requests
